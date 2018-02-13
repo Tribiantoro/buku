@@ -1,0 +1,525 @@
+{
+  "settings": {
+    "name": "toko buku tri-n",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": []
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.6.5",
+    "uniqCompNum": 12,
+    "versionPublish": "4.6.5",
+    "favicon": "",
+    "noImageResize": "",
+    "siteUrl": "undefined",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#fac51c"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "15px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#ffffff",
+            "hamburgerColor": "#fac51c"
+          },
+          "items": "  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"http://www.cektarif.com/\">Cek Ongkir</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/gambar-buku-128x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TOKO BUKU TRI-N</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-778x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "BUKU ADALAH JENDELA DUNIA",
+          "text": "<br>Pernah dengar kalimat itu? Tentu sangat akrab di telinga. Kenapa sih sampai ada istilah tersebut?\n<br>\n<br>Dikutip dari theprospect.net, membaca dapat meningkatkan kualitas hidup manusia serta menjauhkan dari jurang kebodohan. Membiasakan diri membaca buku, koran maupun media lainnya, membuat kita berlatih memusatkan pikiran dan merangsang saraf otak untuk bekerja.\n<br>\n<br>Membaca buku akan menambah pengetahuan kamu tentang apa yang ada di dunia ini. Misalnya, kamu membaca buku tentang negara mesir dan sejarahnya. Tentu saja akan menambah ilmu pengetahuan kamu tentang negara yang memiliki Piramida tersebut.\n<br>\n<br>Ketika ingin mengetahui apa yang ada di dasar laut, kamu juga tidak harus menyelam ke dasar laut untuk dapat mengetahui apa yang ada di dalamnya. Kamu cukup membaca tentang kelautan, dan pastilah kamu akan mengetahui apa yang ada di dalam lautan tersebut. Dan apabila kamu juga ingin mengetahui isi perut bumi, kamu cukup membaca buku tentang perut bumi.\n<br>\n<br>Dengan membaca buku, kamu akan mendapat banyak informasi tanpa harus menanggung resiko untuk mendapatkan informasi tersebut. Bayangkan saja jika kamu harus masuk ke dalam kawah gunung berapi ketika ingin mendapatkan informasi tentang aktifitas gunung berapi. Pasti hal tersebut akan mendatangkan resiko yang sangat besar untuk keselamatan kamu.\n<br>\n<br>Nah itulah keistimewaan membaca buku, mari kita membaca buku agar kita mengetahui banyak hal di muka bumi ini. (rkh/rkh)&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1",
+          "_styles": {
+            "H1": {
+              "font-size": "32px",
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3C3C3C",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "PRE MADE BLOCKS",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-4"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-5"
+        },
+        {
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-6"
+        },
+        {
+          "_params": {
+            "fullWidth": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": false,
+            "showText": true,
+            "showBullets": false,
+            "bgColor": "#ffffff",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/30hjj-300x313.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/30hjj-300x313-300x313.jpg",
+                "alt": "DEWA EKA PRAYOGA",
+                "caption": "<b>Rp 259.000</b>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/easy-copywriting.png-730x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/easy-copywriting.png-730x1000-730x1000.jpg",
+                "alt": "DEWA EKA PRAYOGA",
+                "caption": "<b>Rp 247.000</b>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/151191buku-kttn-172x265.png",
+                "thumb": "@PROJECT_PATH@/assets/images/151191buku-kttn-172x265-172x265.png",
+                "alt": "",
+                "caption": "<b>Rp 129.000</b>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/303609608390dongkrak-omzet-milyaran-237x265.png",
+                "thumb": "@PROJECT_PATH@/assets/images/303609608390dongkrak-omzet-milyaran-237x265-237x265.png",
+                "alt": "DEWA EKA PRAYOGA",
+                "caption": "<b>Harga Promo</b><br><b>Rp 420.000 menjadi Rp 210.000</b>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/197371buku-278x265.png",
+                "thumb": "@PROJECT_PATH@/assets/images/197371buku-278x265-278x265.png",
+                "alt": "DEWA EKA PRAYOGA",
+                "caption": "<b>Rp 127.000</b>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/189363ggf-278x265.png",
+                "thumb": "@PROJECT_PATH@/assets/images/189363ggf-278x265-278x265.png",
+                "alt": "DEWA EKA PRAYOGA",
+                "caption": "<b>Rp 245.000</b>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/cover-buku-eejj-reborn-170x265.png",
+                "thumb": "@PROJECT_PATH@/assets/images/cover-buku-eejj-reborn-170x265-170x265.png",
+                "alt": "DEWA EKA PRAYOGA",
+                "caption": "<b>Rp 249.000</b>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/849947cover-mjp-260x265.png",
+                "thumb": "@PROJECT_PATH@/assets/images/849947cover-mjp-260x265-260x265.png",
+                "alt": "DEWA EKA PRAYOGA",
+                "caption": "<b>Rp 129.000</b>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/7kfpp-224x265.png",
+                "thumb": "@PROJECT_PATH@/assets/images/7kfpp-224x265-224x265.png",
+                "alt": "DEWA EKA PRAYOGA",
+                "caption": "<b>Rp 60.000</b>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/chitchatcover-170x265.png",
+                "thumb": "@PROJECT_PATH@/assets/images/chitchatcover-170x265-170x265.png",
+                "alt": "DEWA EKA PRAYOGA",
+                "caption": "<b>Rp 249.000</b>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mockup-dtt-278x265.png",
+                "thumb": "@PROJECT_PATH@/assets/images/mockup-dtt-278x265-278x265.png",
+                "alt": "DEWA EKA PRAYOGA",
+                "caption": "<b>Rp 129.000</b>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/cover-tetralogi-224x265.png",
+                "thumb": "@PROJECT_PATH@/assets/images/cover-tetralogi-224x265-224x265.png",
+                "alt": "DEWA EKA PRAYOGA",
+                "caption": "<b><br>Promo</b><br><b>Rp 514.000 menjadi Rp 397.000</b><br><b>Paket Tetralogi</b>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/350456komik-jago-jualan-265x265.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/350456komik-jago-jualan-265x265-265x265.jpg",
+                "alt": "DEWA EKA PRAYOGA",
+                "caption": "<b>Rp 245.000</b><br>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mockup-frtbo-4-170x265.png",
+                "thumb": "@PROJECT_PATH@/assets/images/mockup-frtbo-4-170x265-170x265.png",
+                "alt": "DEWA EKA PRAYOGA",
+                "caption": "<b>Rp 249.000</b><br>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/812698understanding-business-278x265.png",
+                "thumb": "@PROJECT_PATH@/assets/images/812698understanding-business-278x265-278x265.png",
+                "alt": "DEWA EKA PRAYOGA",
+                "caption": "<b>Rp 375.000</b><br>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2-cover-3d-marketing-224x265.png",
+                "thumb": "@PROJECT_PATH@/assets/images/2-cover-3d-marketing-224x265-224x265.png",
+                "alt": "DEWA EKA PRAYOGA",
+                "caption": "<b>Rp 253.500</b><br>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/ramsbo-flat-mockup-2-224x265.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ramsbo-flat-mockup-2-224x265-224x265.jpg",
+                "alt": "DEWA EKA PRAYOGA",
+                "caption": "<b>Rp 249.000</b><br>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/cover-creativepreneur-224x265.png",
+                "thumb": "@PROJECT_PATH@/assets/images/cover-creativepreneur-224x265-224x265.png",
+                "alt": "DEWA EKA PRAYOGA",
+                "caption": "<b>Rp 265.000</b><br>",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-8",
+          "_styles": {
+            "SMALL": {
+              "text-align": "center",
+              "font-size": "16px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "B": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525",
+              "text-align": "center",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "30px"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "TUNGGU APA LAGI, ORDER SEKARANG !!!",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-a"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showName": true,
+            "showBio": true,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "header": "TESTIMONI",
+          "items": [
+            {
+              "authorName": "INTEN",
+              "authorBio": "Sales Mitsubishi Mobil&nbsp;",
+              "text": "<p class=\"mbr-reviews__p\">Bukunya sangat kereen, ngena banget dan mudah dicernanya................</p><p class=\"mbr-reviews__p\">Jadi kepengen langsung dipraktekan</p>"
+            },
+            {
+              "authorName": "SUFFIAN A.",
+              "authorBio": "",
+              "text": "<p class=\"mbr-reviews__p\">“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>"
+            },
+            {
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User",
+              "text": "<p class=\"mbr-reviews__p\">“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>"
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-3",
+          "testimonial": [
+            {
+              "authorName": "INTEN",
+              "authorBio": "Sales Mitsubishi Mobil&nbsp;",
+              "text": "<p class=\"mbr-reviews__p\">Bukunya sangat kereen, ngena banget dan mudah dicernanya................</p><p class=\"mbr-reviews__p\">Jadi kepengen langsung dipraktekan</p>"
+            },
+            {
+              "authorName": "SUFFIAN A.",
+              "authorBio": "",
+              "text": "<p class=\"mbr-reviews__p\">“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>"
+            },
+            {
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User",
+              "text": "<p class=\"mbr-reviews__p\">“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>"
+            }
+          ]
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "FORMULIR PEMESANAN",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SAYA SIAP JUALAN</a>",
+          "form": {
+            "action": "t333b333@yahoo.com",
+            "alerts": {
+              "success": "Terima kasih sudah order......."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nama*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "HP/Telp*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Judul Buku#Jumlah Buku"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-9",
+          "_styles": {
+            ".btn": {
+              "font-size": "20px",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#f0f0f0",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "VIRAL KAN",
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/tribiantoro\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>         ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-b"
+        }
+      ]
+    }
+  }
+}
